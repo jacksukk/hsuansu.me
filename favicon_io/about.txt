@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Shantell Sans
+- Font Title: Nunito
 - Font Author: undefined
-- Font Source: https://fonts.gstatic.com/s/shantellsans/v12/FeUaS0pCoLIo-lcdY7kjvNoQqWVWB0qWpl29ajppTuUTu_kJKmHesPOL-maYi4xZeHCNQ09eBlmv2QcUzJ39-rAISYR8S2i2yPwxjyRN.ttf
+- Font Source: https://fonts.gstatic.com/s/nunito/v31/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM9jo7eTWk.ttf
 - Font License: undefined)
