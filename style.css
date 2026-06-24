@@ -64,6 +64,18 @@ h1 {
   margin-bottom: 0;
 }
 
+.role a {
+  color: #777;
+  text-decoration: underline;
+  text-decoration-color: #ddd;
+  text-underline-offset: 3px;
+  transition: text-decoration-color 0.15s ease;
+}
+
+.role a:hover {
+  text-decoration-color: #777;
+}
+
 .bio a {
   color: #111;
   text-decoration: underline;
@@ -124,7 +136,7 @@ h1 {
 
   .photo {
     width: 160px;
-    height: 160px;
+    height: auto;
   }
 
   body {
