@@ -77,15 +77,13 @@ h1 {
 }
 
 .bio a {
-  color: #111;
-  text-decoration: underline;
-  text-decoration-color: #ccc;
-  text-underline-offset: 3px;
-  transition: text-decoration-color 0.15s ease;
+  color: #888;
+  text-decoration: none;
+  transition: color 0.15s ease;
 }
 
 .bio a:hover {
-  text-decoration-color: #111;
+  color: #111;
 }
 
 .links {
